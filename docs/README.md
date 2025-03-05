@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Add 10 more websites to manage, clean JSON file ([#2420](https://github.com/sherlock-project/sherlock/pull/2420))
+
 <p align=center>
   <br>
   <a href="https://sherlock-project.github.io/" target="_blank"><img src="images/sherlock-logo.png"/></a>
